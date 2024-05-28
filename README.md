@@ -1,6 +1,6 @@
 # AR-Robot Remote Navigation System
 
-This project involves the development of a remotely controlled 4-wheeled robot equipped with a camera for video feed capture and real-time processing using computer vision techniques like object detection and tracking.
+This project involves the development of a remotely controlled 4-wheeled robot equipped with a camera for video feed capture and real-time processing using augmented reality and computer vision techniques like object detection and tracking.
 
 ## Overview
 
