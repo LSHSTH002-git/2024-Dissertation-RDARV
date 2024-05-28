@@ -1,4 +1,4 @@
-#Robot Digital Augmented Reality View
+# Robot Digital Augmented Reality View
 
 This project involves the development of a remotely controlled 4-wheeled robot equipped with a camera for video feed capture and real-time processing, employing computer vision tasks like object detection and tracking to bring about digital augmentations of the robot camera view. The augmentations enhancing the robot's ability to perceive and interact with its environment more effectively, improving navigation, safety, and decision-making. By overlaying digital information onto the physical world, the system provides operators with valuable insights in real-time, enabling more precise control and better situational awareness in complex environments.
 
@@ -33,9 +33,6 @@ This project involves the development of a remotely controlled 4-wheeled robot e
 
 - Navigate in the folders for source code
 
-## Diagram
-![image](https://github.com/LSHSTH002-git/Robot-Digital-Augmented-Reality-View-/assets/88942864/afd67bc6-f217-450d-a6b4-9a8806f47dcb)
-*Figure: Software design overview*
 
 ## Usage
 
