@@ -1,6 +1,8 @@
 # Robot Digital Augmented Reality View
 
-This project involves the development of a remotely controlled 4-wheeled robot equipped with a camera for video feed capture and real-time processing, employing computer vision tasks like object detection and tracking to bring about digital augmentations of the robot camera view. The augmentations enhancing the robot's ability to perceive and interact with its environment more effectively, improving navigation, safety, and decision-making. By overlaying digital information onto the physical world, the system provides operators with valuable insights in real-time, enabling more precise control and better situational awareness in complex environments.
+This project involves the development of a remotely controlled 4-wheeled robot equipped with a camera for video feed capture and real-time processing, employing computer vision tasks like object detection and tracking to bring about digital augmentations of the robot camera view. The augmentations enhancing the robot's ability to perceive and interact with its environment more effectively, improving navigation, safety, and decision-making. By overlaying digital information onto the physical world, the system provides operators with valuable insights in real-time, enabling more precise control and better situational awareness in complex environments. 
+
+Navigate in the folders for source code
 
 ## Overview
 
@@ -31,7 +33,7 @@ This project involves the development of a remotely controlled 4-wheeled robot e
 - **Raspberry Pi**: Captures live video feed.
 - **YOLOv8**: Processes the video feed for object detection and tracking.
 
-- Navigate in the folders for source code
+
 
 
 ## Usage
