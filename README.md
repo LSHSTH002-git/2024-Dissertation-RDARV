@@ -1,23 +1,23 @@
-# AR-Robot Remote Navigation System
+![image](https://github.com/LSHSTH002-git/Robot-Digital-Augmented-Reality-View-/assets/88942864/afd67bc6-f217-450d-a6b4-9a8806f47dcb)#Robot Digital Augmented Reality View
 
-This project involves the development of a remotely controlled 4-wheeled robot equipped with a camera for video feed capture and real-time processing using augmented reality and computer vision techniques like object detection and tracking.
+This project involves the development of a remotely controlled 4-wheeled robot equipped with a camera for video feed capture and real-time processing, employing computer vision tasks like object detection and tracking to bring about digital augmentations of the robot camera view. The augmentations enhancing the robot's ability to perceive and interact with its environment more effectively, improving navigation, safety, and decision-making. By overlaying digital information onto the physical world, the system provides operators with valuable insights in real-time, enabling more precise control and better situational awareness in complex environments.
 
 ## Overview
 
-### Hardware Components
+### Essential Hardware Components
 - 4-wheeled robot chassis
 - Raspberry Pi
-- Camera module
+- Raspberry Pi Camera Module
 - Arduino R3
 - HC-05 Bluetooth module
 - L293D motor driver
 - DC motors
-- Battery pack
+- 18650 battery holders
+- DC-DC step down converter
 
 ### Software Components
 - Raspberry Pi for live video feed
 - YOLOv8 for object detection and tracking
-- User interface to toggle augmentations
 
 ## System Design
 
@@ -30,7 +30,8 @@ This project involves the development of a remotely controlled 4-wheeled robot e
 ### Computer Vision
 - **Raspberry Pi**: Captures live video feed.
 - **YOLOv8**: Processes the video feed for object detection and tracking.
-- **User Interface**: Allows toggling of augmentations on/off as needed.
+
+- Navigate in the folders for source code
 
 ## Diagram
 ![System Design Overview](path/to/diagram.png)
@@ -63,12 +64,11 @@ This project involves the development of a remotely controlled 4-wheeled robot e
 3. **Operation**:
    - Use the Bluetooth controller to navigate the robot.
    - View the live video feed on the Raspberry Pi interface.
-   - Toggle object detection and tracking augmentations using the user interface.
 
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Contant Info:
+Name: S'thabiso Lushaba
+Email: sthabisoslushaba@gmail.com
